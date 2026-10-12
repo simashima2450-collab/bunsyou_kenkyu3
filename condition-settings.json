@@ -1,0 +1,24 @@
+{
+  "roles": {
+    "a": "実験装置（価格表示・紹介文は客観情報）",
+    "t": "文章あり（情緒的な紹介文・価格非表示）",
+    "b": "文章なし（紹介文は客観情報・価格非表示）"
+  },
+  "properties": {
+    "dobashi": {
+      "title": "光を受けとめる白い部屋",
+      "apparatus_price_man_yen": 3480
+    },
+    "kiyosumi": {
+      "title": "木の窓辺に残る時間",
+      "apparatus_price_man_yen": 4380
+    },
+    "nishiogikubo": {
+      "title": "西日にほどける部屋",
+      "apparatus_price_man_yen": 5280
+    }
+  },
+  "page_count": 9,
+  "combinations": 36,
+  "note": "価格は研究用の架空設定値です。市場査定ではありません。"
+}
